@@ -1,0 +1,11 @@
+﻿<html>
+<head>
+<title>Testando JavaScript7</title>
+</head>
+<body>
+<script>
+        alert("bom dia");
+	alert("vamos estudar a linguagem \nJavaScript hoje!");
+</script>
+</body>
+</html>

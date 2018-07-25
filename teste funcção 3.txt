@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Testando JavaScript3</title>
+</head>
+<body>
+<script type="text/javascript">
+function func01 () {
+	var x = 10;
+	y = 20;
+	alert(x);
+	alert (y);
+};
+func01 ();
+function func02() {
+	y++;
+	alert(y);
+	alert(x);
+};
+func02 ();
+</script>
+</body>
+</html>
